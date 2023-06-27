@@ -39,16 +39,20 @@
 	<img src = "https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt = "html" />
 	<img src = "https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt = "css" />
 	<img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt = "javascript" />
+    <img src = "https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" alt = "typescript" />
 	<br/>
 	<img src = "https://img.shields.io/badge/Microsoft%20Azure-0078D4.svg?style=for-the-badge&logo=Microsoft-Azure&logoColor=white" alt = "azure" />
 	<img src = "https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white" alt = "docker" />
 	<img src = "https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white" alt = "express" />
 	<img src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt = "react" />
+    <img src = "https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt = "next" />
 	<img src = "https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white" alt = "AWS" />
 	<br/>
 	<img src = "https://img.shields.io/badge/Firebase-323330?style=for-the-badge&logo=firebase&logoColor=ffca28" alt = "firebase" />
 	<img src = "https://img.shields.io/badge/MongoDB-001e2b?style=for-the-badge&logo=mongodb&logoColor=00ed64" alt = "mongodb" />
 	<img src = "https://img.shields.io/badge/MySQL-005e86?style=for-the-badge&logo=mysql&logoColor=white" alt = "mysql"/>
+    <img src = "https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white" alt = "postgresql"/>
+    <img src = "https://img.shields.io/badge/Redis-DC382D.svg?style=for-the-badge&logo=Redis&logoColor=white" alt = "redis"/>
 	<img src = "https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt = "postman" />
 	<img src = "https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt = "git" />
     <img src = "https://img.shields.io/badge/NGINX-009639.svg?style=for-the-badge&logo=NGINX&logoColor=white" alt = "nginx" />
