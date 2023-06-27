@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/PRATHAM2002-DS">
-    <img src="https://user-images.githubusercontent.com/74038190/206688648-cf6a7268-47b1-4bf1-b6ce-84bf9fd97b38.png" alt="Pratham More" title="Hi there"/></a>
+    <img src="" alt="Pratham More" title="Hi there"/></a>
 </p>
 
 <p align="center">
