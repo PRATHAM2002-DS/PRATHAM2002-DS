@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/PRATHAM2002-DS">
-    <img src="" alt="Pratham More" title="Hi there"/></a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&weight=450&size=24&color=70A4FC&width=440&height=45&lines=Pratham+More" alt="Pratham More" title="Hi there"/></a>
 </p>
 
 <p align="center">
