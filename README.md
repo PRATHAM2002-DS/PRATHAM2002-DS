@@ -5,7 +5,7 @@
 
 <p align="center">
 <a href="https://github.com/PRATHAM2002-DS">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&weight=450&size=24&pause=800&color=70A4FC&width=440&height=45&lines=Full-stack+Web+Developer;Cloud+and+DevOps;Blockchain+Distributed+Systems+enthusiast;Building+Something+Creative" /></a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&weight=450&size=24&pause=800&color=70A4FC&width=440&height=45&lines=Full-stack+Web+Developer;Cloud+and+DevOps;Distributed+Systems+enthusiast;Building+Something+Creative" /></a>
 </p>
 <h3 align = "center">I am a Electronics and Telecommunication Engineering Undergraduate, Full Stack Web App Developer and Cloud and DevOps enthusiast.</h3>
 
